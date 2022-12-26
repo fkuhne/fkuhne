@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fkuhne
-  - 17 years of experience in several industries
-  - Currently software engineer at HP
-  - Former tech lead in IoT and computer vision (2017~2021)
-  - Former teacher in industrial robotics (2009~2019)
+  - 17 years of experience in several software industries
+  - Currently software engineer at [HP](https://www.hp.com/us-en/hp-information.html)
+  - Former tech lead in IoT and computer vision at [DBLab](https://db.tec.br/dblab) (2017~2021)
+  - Former teacher in industrial robotics at [PUCRS](https://www.pucrs.br/politecnica) (2009~2019)
 - 👀 I’m interested in: 
   - Software engineering
   - Software architecture
