@@ -25,7 +25,7 @@
   - Face recognition system (tech lead, developer)
   - [Keyword spotting with embedded machine learning](https://youtu.be/-SSv93OWUFo) (developer)
   - Behavior detection of a microwave oven with embedded machine learning (developer)
-  - In-company training on Internet of Things and Industry 4.0 (teacher)
+  - In-company training on Internet of Things and Industry 4.0 since 2017 (teacher)
   - Intelligent ergonomic assistant for work places (patent required)
 
 
