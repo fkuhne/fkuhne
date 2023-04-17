@@ -11,10 +11,11 @@
 - 🌱 I’m currently learning
   - Software architecture
   - Frontend development
-- 💞️ I’m looking to collaborate on:
-  - Full stack projects
-  - Mbbile (Android)
-  - Computer vision-relatd projects
+- 💞️ I’m looking to collaborate on projects witj:
+  - Full stack
+  - Mobile (Android)
+  - Computer vision 
+  - Machine learning
 - 📫 How to reach me:
   - [E-mail](fkuhne@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/fkuhne/)
@@ -28,6 +29,9 @@
   - In-company training on Internet of Things and Industry 4.0 since 2017 (teacher)
   - Intelligent ergonomic assistant for work places (patent required)
 
+- Personal interests:
+  - Photography ([Instagram](https://www.instagram.com/fkuhne))
+  - [Twitter](https://twitter.com/fkuhne)  
 
 <!---
 fkuhne/fkuhne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
