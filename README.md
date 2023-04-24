@@ -27,7 +27,6 @@
   - Keyword spotting with embedded machine learning (developer) ([Youtube video](https://youtu.be/-SSv93OWUFo)
   - Behavior detection of a microwave oven with embedded machine learning (developer)
   - In-company training on Internet of Things and Industry 4.0 since 2017 (teacher)
-  - Intelligent ergonomic assistant for work places (patent required)
 
 - Personal interests:
   - Photography ([Instagram](https://www.instagram.com/fkuhne))
