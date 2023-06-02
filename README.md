@@ -22,11 +22,16 @@
   - [LinkedIn](https://www.linkedin.com/in/fkuhne/)
   - [Github](https://github.com/fkuhne)
 - Some recent cool projects:
-  - Face recognition system (tech lead, developer)
-  - Keyword spotting with embedded machine learning (developer) ([Youtube video](https://youtu.be/-SSv93OWUFo)
-  - Behavior detection of a microwave oven with embedded machine learning (developer)
-  - In-company training on Internet of Things and Industry 4.0 since 2017 (teacher)
-  - Several projects with computer vision / deep learning (object detection, people tracking, PPE detection, ...)
+  - Face recognition - a comprehensive desktop application (Computer vision, deep learning, OpenCV, Linux, C++, React)
+  - Keyword spotting with embedded machine learning (Tensorflow Lite, C++, Python, audio processing) ([video](https://youtu.be/-SSv93OWUFo))
+  - Behavior detection of a microwave oven with embedded machine learning (Tensorflow Lite, C++, Python)
+  - People counter/tracker with computer vision (Computer vision, Machine learning, OpenCV, DLib, C++) ([video](https://youtu.be/AB5o7XPplFg))
+  - In-company training on Internet of Things and Industry 4.0 since 2017
+  - Temperature sensor reading - a contribution to Raspberry Pi Pico Github repository (Embedded systems, C++) ([source code](https://github.com/raspberrypi/pico-examples/pull/80));
+  - Computer vision for blueprint document analysis (Computer vision, Machine learning, Tensorflow, Python);
+  - IoT integration with chatbots (IoT, Telegram Bot API, Python, C++) ([video](https://www.youtube.com/watch?v=XvlUL0Efp_Y));
+  - Moodbox - an end-to-end device for feedback retrieval (3D printing, IoT, Fullstack development);
+  - IOTAR - an integration with IoT devices and augmented reality (IoT, C++, Augmented reality) ([video](https://www.youtube.com/watch?v=up80ocWez6Y)).
   - Computer vision for an industrial conveyour belt (project coordinator; old school machine learning)
   - [Arduino Day at PUCRS from 2016 to 2019](https://web.facebook.com/arduinodaypucrs) (founder and organizer) ([video of 2017 edition](https://www.youtube.com/watch?v=TMw2YZGt9XM))
 
