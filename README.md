@@ -21,7 +21,7 @@
   - [E-mail](fkuhne@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/fkuhne/)
   - [Github](https://github.com/fkuhne)
-- Some recent cool projects:
+- Recent portfolio:
   - Face recognition - a comprehensive desktop application (Computer vision, deep learning, OpenCV, Linux, C++, React)
   - Keyword spotting with embedded machine learning (Tensorflow Lite, C++, Python, audio processing) ([video](https://youtu.be/-SSv93OWUFo))
   - Behavior detection of a microwave oven with embedded machine learning (Tensorflow Lite, C++, Python)
