@@ -22,6 +22,7 @@
   - [LinkedIn](https://www.linkedin.com/in/fkuhne/)
   - [Github](https://github.com/fkuhne)
 - Recent portfolio:
+  - [Where To Watch?](https://github.com/fkuhne/wheretowatch) - an AI-powered search tool for TV shows (made with Langchain, Streamlit and OpenAI) ([live demo](https://wheretowatch.streamlit.app/)) ([repo](https://github.com/fkuhne/wheretowatch))
   - Face recognition - a comprehensive desktop application (Computer vision, deep learning, OpenCV, Linux, C++, React)
   - Keyword spotting with embedded machine learning (Tensorflow Lite, C++, Python, audio processing) ([video](https://youtu.be/-SSv93OWUFo))
   - Behavior detection of a microwave oven with embedded machine learning (Tensorflow Lite, C++, Python)
