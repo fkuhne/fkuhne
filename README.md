@@ -11,9 +11,8 @@
 - 🌱 I’m currently learning:
   - LLM & SLM fine-tuning (SFT/DPO), structured outputs, and inference efficiency
   - Edge machine learning - training, compressing, and deploying models on constrained hardware
-  - Javascript / React / React Native development
 - 💞️ I’m looking to collaborate on projects with:
-  - Machine learning / AI, especially LLMs and generative models
+  - Machine learning / AI
   - Computer vision
   - Full stack
 - 📫 How to reach me:
