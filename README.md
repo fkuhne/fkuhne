@@ -27,7 +27,7 @@
   - [ModernBERT-cats-and-dogs](https://github.com/fkuhne/ModernBERT-cats-and-dogs) - a practical example of fine-tuning ModernBERT for text classification.
   - [Edge AI Architect](https://github.com/fkuhne/edge-ai-architect) - a hands-on curriculum for edge machine learning: train, compress, and deploy across runtimes on constrained hardware (work in progress).
   - Article: "2T-FT: Two-Token Fine-tuning improves zero-shot performance with minimal training", Neural Computing and Applications (2026), Springer Nature ([paper](https://link.springer.com/article/10.1007/s00521-026-12052-9)).
-  - Patent: Ergonomic layout optimization systems and methods.
+  - Patent: [Ergonomic layout optimization systems and methods](https://patents.google.com/patent/US11972064B2).
   - [Where To Watch?](https://github.com/fkuhne/wheretowatch) - an AI-powered search tool for TV shows (made with Langchain, Streamlit and OpenAI) ([live demo](https://wheretowatch.streamlit.app/)) ([repo](https://github.com/fkuhne/wheretowatch)).
   - ["Pra Criança Ler"](https://github.com/fkuhne/pracriancaler) - an AI-powered project to help kids learn to read ([frontend](https://github.com/fkuhne/pracriancaler)) ([backend](https://github.com/fkuhne/pracriancaler-backend)).
   - Face recognition - a comprehensive desktop application (Computer vision, deep learning, OpenCV, Linux, C++, React).
