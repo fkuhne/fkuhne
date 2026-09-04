@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Felipe](@fkuhne)!
+- 👋 Hi, I’m Felipefkuhne!
   - 20+ years of experience across software engineering, machine learning, and embedded systems
   - Currently a Machine Learning Engineer at [HP](https://www.hp.com/us-en/hp-information.html), designing generative AI applications for text and image (RAG, agents, and services)
   - Former tech lead in IoT and computer vision at [DBLab](https://db.tec.br/dblab) (2017~2021)
