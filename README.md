@@ -1,28 +1,35 @@
 - 👋 Hi, I’m [Felipe](@fkuhne)!
-  - 18 years of experience in several software industries
-  - Currently software engineer at [HP](https://www.hp.com/us-en/hp-information.html)
+  - 20+ years of experience across software engineering, machine learning, and embedded systems
+  - Currently a Machine Learning Engineer at [HP](https://www.hp.com/us-en/hp-information.html), designing generative AI applications for text and image (RAG, agents, and services)
   - Former tech lead in IoT and computer vision at [DBLab](https://db.tec.br/dblab) (2017~2021)
-  - Former teacher in industrial robotics at [PUCRS](https://www.pucrs.br/politecnica) (2009~2019)
-- 👀 I’m interested in: 
+  - Former assistant professor in industrial robotics at [PUCRS](https://www.pucrs.br/politecnica) (2009~2021)
+- 👀 I’m interested in:
+  - Generative AI / LLMs & SLMs
   - Machine learning / deep learning
-  - Software engineering
-  - Software architecture
-  - Computer vision
+  - Software engineering / software architecture
+  - Computer vision / edge AI
 - 🌱 I’m currently learning:
-  - Deep learning / LLMs
+  - LLM & SLM fine-tuning (SFT/DPO), structured outputs, and inference efficiency
+  - Edge machine learning - training, compressing, and deploying models on constrained hardware
   - Javascript / React / React Native development
-  - Software architecture
 - 💞️ I’m looking to collaborate on projects with:
-  - Machine learning / AI
-  - Computer vision 
+  - Machine learning / AI, especially LLMs and generative models
+  - Computer vision
   - Full stack
 - 📫 How to reach me:
   - [E-mail](fkuhne@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/fkuhne/)
   - [Github](https://github.com/fkuhne)
 - Recent portfolio:
-  - Enterprise Generative AI apps.
+  - Machine Learning Engineer at HP, building scalable generative AI applications for text and image modalities.
+  - [FastTokens](https://github.com/fkuhne/fasttokens) - investigating structured outputs and grammar constraints to optimize LLM inference efficiency through token coalescence.
+  - [DocTune](https://github.com/fkuhne/doctune) - a domain adaptation pipeline for small language models, generating synthetic datasets for SFT and DPO fine-tuning.
+  - [ModernBERT-cats-and-dogs](https://github.com/fkuhne/ModernBERT-cats-and-dogs) - a practical example of fine-tuning ModernBERT for text classification.
+  - [Edge AI Architect](https://github.com/fkuhne/edge-ai-architect) - a hands-on curriculum for edge machine learning: train, compress, and deploy across runtimes on constrained hardware (work in progress).
+  - Article: "2T-FT: Two-Token Fine-tuning improves zero-shot performance with minimal training", Neural Computing and Applications (2026), Springer Nature ([paper](https://link.springer.com/article/10.1007/s00521-026-12052-9)).
+  - Patent: [Ergonomic layout optimization systems and methods](https://patents.google.com/patent/US11972064B2).
   - [Where To Watch?](https://github.com/fkuhne/wheretowatch) - an AI-powered search tool for TV shows (made with Langchain, Streamlit and OpenAI) ([live demo](https://wheretowatch.streamlit.app/)) ([repo](https://github.com/fkuhne/wheretowatch)).
+  - ["Pra Criança Ler"](https://github.com/fkuhne/pracriancaler) - an AI-powered project to help kids learn to read ([frontend](https://github.com/fkuhne/pracriancaler)) ([backend](https://github.com/fkuhne/pracriancaler-backend)).
   - Face recognition - a comprehensive desktop application (Computer vision, deep learning, OpenCV, Linux, C++, React).
   - Keyword spotting with embedded machine learning (Tensorflow Lite, C++, Python, audio processing) ([video](https://youtu.be/-SSv93OWUFo)).
   - Behavior detection of a microwave oven with embedded machine learning (Tensorflow Lite, C++, Python).
@@ -35,6 +42,11 @@
   - IOTAR - an integration with IoT devices and augmented reality (IoT, C++, Augmented reality) ([video](https://www.youtube.com/watch?v=up80ocWez6Y)).
   - Computer vision for an industrial conveyour belt (project coordinator; old school machine learning).
   - [Arduino Day at PUCRS from 2016 to 2019](https://web.facebook.com/arduinodaypucrs) (founder and organizer) ([video of 2017 edition](https://www.youtube.com/watch?v=TMw2YZGt9XM)).
+- Courses & certifications:
+  - Generative AI with Large Language Models - DeepLearning.AI (deep learning, NLP, AWS SageMaker).
+  - Deep Learning Specialization - DeepLearning.AI (machine learning, deep learning, Tensorflow, Python).
+  - Tiny Machine Learning Professional Certificate - edX & Harvard (embedded systems, machine learning).
+  - Introduction to Embedded Machine Learning - Coursera (embedded systems, machine learning).
 
 - Personal interests:
   - Photography ([Instagram](https://www.instagram.com/fkuhne))
